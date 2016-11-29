@@ -1,0 +1,12 @@
+{
+	"keywords": {
+		"VAN" : {
+			"meaning" : "Visual Analytics Next",
+			"link" : "http://blah_van"
+		},
+		"VA" : {
+			"meaning" : "Visual Analytics",
+			"link" : "http://blah_va"
+		}
+	}
+}
